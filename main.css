@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.homeheader {
+    text-align: center;
+    background-color: #41babe;
+    border-radius: 0;
+    color: black;
+}
+
+#projects {
+    width: 200px;
+    height: 200px;
+}
+
+#githubcat {
+    width: 40px;
+    height: 40px;
+    border-radius: 2px;
+}
+
+#contact {
+    align-items: center;
+    text-align: center;
+}
+.m0-auto{
+    margin: 0 auto;
+}
